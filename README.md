@@ -1,0 +1,1 @@
+# pacman verify 704
